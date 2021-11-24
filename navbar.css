@@ -27,4 +27,10 @@
     transition: color 0.2s ease-in; /*only color will have this transition effect over course of .5 seconds */
 }
 
+.logo{
+    width: 30px;
+    height: 30px;
+}
+
+
 
