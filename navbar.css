@@ -1,9 +1,13 @@
+.body{
+    position: fixed;
+}
 .nav{
     display: flex; /* flex box: flexible container. Can align the things inside */
     align-items: center; /*better if its applied to a flexible container */
     justify-content: space-between;
     flex-direction: row;
     min-width: 100vw;
+    position: relative;
 }
 
 .text{
@@ -20,6 +24,7 @@
     text-decoration: none;
     color: black;
     transition: color 0.2s ease-in; /* will have this affect when unhover */
+    float: right;
 }
 
 .text li a:hover{ /*do this when hovering over */
