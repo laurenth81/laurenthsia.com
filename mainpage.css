@@ -1,5 +1,4 @@
 .imagescontainer{
-    height: 1000vh;
     display: flex; /*flexible box*/
 }
 
