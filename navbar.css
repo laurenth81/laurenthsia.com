@@ -32,5 +32,10 @@
     height: 30px;
 }
 
+hr{
+    border-top: 2px solid;
+    border-radius: 1px;
+}
+
 
 
