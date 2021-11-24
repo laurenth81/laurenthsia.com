@@ -1,0 +1,8 @@
+.images{
+    width:100vw; 
+    display: flex; /*flexible box*/
+}
+
+.images div{
+    flex: 1; /*all three images are same size*/
+}
